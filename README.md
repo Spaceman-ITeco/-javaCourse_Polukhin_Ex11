@@ -1,2 +1,2 @@
-# -javaCourse_Polukhin_Ex11
-Часть 11: Проект №2 - ООП 
+# javaCourse_Polukhin_Ex12
+Часть 12: Модуль 9: Коллекции 
